@@ -33,6 +33,7 @@ password="${password}${all[$rand]}"
 
 done 
 
+
 randlength=${RANDOM}%$length
 randspec=${RANDOM}%9
 password=${password:$randlength}${special[$randspec]}
