@@ -1,6 +1,4 @@
 #Name: Katherine Pelesz
-#Course: OPS435
-#Section: A
 
 #LAB
 #Tells you if you were born on a leapyear
