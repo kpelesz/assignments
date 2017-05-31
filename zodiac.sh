@@ -1,5 +1,4 @@
 #!/bin/bash
-#OPS435 Section A
 #Katherine Pelesz
 
 #ASSIGNMENT ONE
