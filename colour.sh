@@ -2,6 +2,9 @@
 # Written by John Selmys - February 2012
 # Modified by Katherine Pelesz to allow a parameter random or RANDOM to print out the string in a random colour and/or bolded
 
+# LAB - Take the script provided in class and add the ability to allow a parameter random or RANDOM for random colour and/or bold
+
+
 declare -A random=([0]="0;30" [1]="0;31" [2]="0;32" [3]="0;33" [4]="0;34" [5]="0;35" [6]="0;36" [7]="0;37")
 declare -A randombold=([0]="1;30" [1]="1;31" [2]="1;32" [3]="1;33" [4]="1;34" [5]="1;35" [6]="1;36" [7]="1;37")
 declare -A colours=([black]="0;30" [red]="0;31" [green]="0;32" [yellow]="0;33" [blue]="0;34" [magenta]="0;35" [cyan]="0;36" [white]="0;37")
